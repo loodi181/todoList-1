@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Signika Negative", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    65deg,
+    rgba(85, 133, 129, 1) 0%,
+    rgba(73, 101, 135, 1) 55%
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+}
